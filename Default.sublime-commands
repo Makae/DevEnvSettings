@@ -1,0 +1,7 @@
+ [
+    {
+        "caption": "CRegRep: Make a List out of a selected Google Docs Table Line",
+        "command": "reg_replace",
+        "args": {"replacements": ["google_doc_table_to_list"]}
+    }
+]

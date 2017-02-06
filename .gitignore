@@ -1,0 +1,9 @@
+# Ignore all
+*
+
+# Exclude from ignore
+!.gitignore
+!Preferences.sublime-settings
+!Snippets
+!Default.sublime-commands
+!JavaScript.sublime-settings
