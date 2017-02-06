@@ -1,0 +1,79 @@
+{
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		"content/plugins/raptus-sps-paymentgateway/libs/xmldsig_master/**",
+		"xmldsig_master/**"
+	],
+	"bold_folder_labels": true,
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"default_line_ending": "unix",
+	"draw_minimap_border": true,
+	"draw_white_space": "all",
+	"font_face": "Anonymous Pro",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 15,
+	"highlight_line": true,
+	"ignore_vcs_packages": true,
+	"ignored_packages":
+	[
+		"Clojure",
+		"CSScomb",
+		"Diffy",
+		"Emmet",
+		"Github Tools",
+		"jQuery",
+		"jQuery Snippets pack",
+		"JSHint",
+		"Less2Css",
+		"Line Endings Unify",
+		"Markdown",
+		"MarkdownEditing",
+		"Unity Completions",
+		"Unity3D",
+		"Vintage",
+		"WhoCalled Function Finder"
+	],
+	"index_exclude_patterns":
+	[
+		"/Users/mkaeser/Development/groot/trunk/src/Zend*",
+		"/Users/mkaeser/Development/Wordpress/customers/Kreando*",
+		"/Users/mkaeser/Development/sites/alderaan.ch/pub/httpdocs/wp-content/themes/jupiter*",
+		"/Users/mkaeser/Development/sites/galaan.ch/pub/httpdocs/content/plugins/raptus-donation-framework/libs*",
+		"*.log",
+		"/Users/mkaeser/Development/sites/galaan.ch/pub/httpdocs/content/themes/galaan/node_modules*"
+	],
+	"line_padding_bottom": 1.85,
+	"line_padding_top": 1.85,
+	"match_brackets": true,
+	"match_brackets_content": true,
+	"match_bracktets_angle": true,
+	"match_bracktets_braces": true,
+	"scroll_past_end": false,
+	"show_encoding": true,
+	"sidebar_large": true,
+	"tab_size": 4,
+	"tabs_medium": true,
+	"theme": "predawn-DEV.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": false,
+	"word_wrap": false
+}
